@@ -393,48 +393,8 @@
     letter-spacing: 20px;
   }
 }
-/* Дополнительные исправления для about секции */
-.about {
-  display: grid;
-  grid-template-columns: 430px auto;
-  padding: 0 50px 180px 50px;
-  gap: 25px;
-  align-items: start;
-}
 
-.about__logo {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 240px;
-  height: 240px;
-  border-radius: 50%;
-  background-color: #000;
-  margin: 0 auto;
-}
 
-.about__content {
-  display: flex;
-  flex-direction: column;
-}
-
-.about__title {
-  margin: 0 0 100px 0;
-  font-weight: 700;
-  font-size: 40px;
-  font-style: normal;
-  text-transform: uppercase;
-}
-
-.about__text {
-  display: flex;
-  flex-direction: column;
-  gap: 25px;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-}
 
 /* Исправление для footer address */
 .footer__address {
