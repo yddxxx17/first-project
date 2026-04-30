@@ -1,1 +1,1 @@
-https://github.com/yddxxx17/first-project
+https://github.com/yddxxx17/ono-tebe-nado-fd
